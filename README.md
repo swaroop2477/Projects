@@ -1,2 +1,2 @@
-# CODSOFT
-Codsoft Task
+# Mini_Projects
+Practice
